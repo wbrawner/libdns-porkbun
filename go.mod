@@ -1,4 +1,4 @@
-module github.com/libdns/porkbun
+module github.com/wbrawner/libdns-porkbun
 
 go 1.20
 
